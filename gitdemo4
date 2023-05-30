@@ -1,0 +1,6 @@
+I am a winner
+frank:x:1006:1008::/home/frank:/bin/bash
+Justice:x:1007:1009::/home/Justice:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+nginx:x:990:990:Nginx web server:/var/lib/nginx:/sbin/nologin
+grace:x:1008:1010::/home/grace:/bin/bash
